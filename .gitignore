@@ -1,2 +1,4 @@
 hab.txt
 build.log
+vendor
+*.log
