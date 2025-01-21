@@ -1,4 +1,4 @@
 hab.txt
-build.log
+*.log
 vendor
-lapvt.log
+.env
